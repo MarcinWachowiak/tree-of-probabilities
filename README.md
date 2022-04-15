@@ -1,2 +1,2 @@
-# tree of probabilities
- Tree of probabilities
+# Tree of probabilities
+Visualize random paths
